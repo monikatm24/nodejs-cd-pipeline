@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-cd-pipeline",
+  "version": "1.0.0",
+  "description": "Node.js Continuous Delivery using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
